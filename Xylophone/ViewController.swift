@@ -6,6 +6,8 @@
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
+//GREAT CODE AND COMMENTS. EXCELLENT WORK --ADAM
+
 import UIKit
 import AVFoundation
 
